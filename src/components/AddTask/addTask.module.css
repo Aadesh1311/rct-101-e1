@@ -1,3 +1,14 @@
 .addTask {
   /* Sample */
 }
+
+.btn
+{
+  width: 20px;
+  height:20px;
+  border-radius: 3px;
+}
+.todoForm{
+  
+  margin-left: 40%;
+}

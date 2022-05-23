@@ -5,3 +5,12 @@
 .empty {
   /* sample */
 }
+
+.striked{
+  text-decoration: line-through;
+}
+
+.tasks{
+  display: flex;
+  margin-left: 40%;
+}
